@@ -1,6 +1,6 @@
 ![3edab5240febd225ddd6b5c22bb333d2](https://github.com/user-attachments/assets/aaac8870-6a55-4515-bee4-573d1796f1c9)<div align="center">
 
-<img src="[https://i.pinimg.com/originals/3e/da/b5/3edab5240febd225ddd6b5c22bb333d2.gif](https://i.pinimg.com/originals/a2/84/af/a284af6a1eedb60c973e894c1b1e442e.gif)" width="92%" style="display:block; margin:0 auto; border-radius:16px;" alt="pink purple anime coding banner" />
+<img src="https://i.pinimg.com/originals/a2/84/af/a284af6a1eedb60c973e894c1b1e442e.gif" width="92%" style="display:block; margin:0 auto; border-radius:16px;" alt="pink purple anime coding banner" />
 
 # 💜 Hi, I'm **Polina** 💖
 ### 🌸 Middle Automated QA Engineer 🌸
