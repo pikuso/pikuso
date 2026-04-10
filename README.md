@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=850&color=C770F0&center=true&vCenter=true&width=840&lines=Middle+Automated+QA+Engineer;Java+%7C+TestNG+%7C+Postman+%7C+Swagger;Loving+autotests%2C+travel%2C+sports+and+creativity;Always+learning+new+languages+and+technologies" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/Profile%20Theme-Purple%20%26%20Pink-c770f0?style=for-the-badge" />
-
 </div>
 
 ---
